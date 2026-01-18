@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin-top: 50px;
-    background-color: #f0f0f0; /* Default background color */
+    background-color: #f0f0f0; 
 }
 
 h1 {
@@ -10,11 +10,11 @@ h1 {
 }
 
 button {
-    background-color: blue; /* Default button color */
+    background-color: blue; 
     color: white;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s ease; /* Smooth color change */
+    transition: background-color 0.3s ease; 
 }
