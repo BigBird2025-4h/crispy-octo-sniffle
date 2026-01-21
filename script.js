@@ -24,5 +24,6 @@ document.addEventListener('DOMContentLoaded', function() {
             this.style.backgroundColor = 'yellow';
         } else {
             this.style.backgroundColor = 'green';
+        }
     });
 });
