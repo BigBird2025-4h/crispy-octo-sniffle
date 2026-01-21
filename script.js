@@ -10,14 +10,14 @@ document.addEventListener('DOMContentLoaded', function() {
             this.style.backgroundColor = 'red';
         }
         
-        portfolioButton2.addEventListener('click', function() {
+    portfolioButton2.addEventListener('click', function() {
         if (this.style.backgroundColor === 'orange') {
             this.style.backgroundColor = 'blue';
         } else {
             this.style.backgroundColor = 'orange'
         }
             
-            portfolioButton3.addEventListener('click', function() {
+    portfolioButton3.addEventListener('click', function() {
         if (this.style.backgroundColor === 'green') {
             this.style.backgroundColor = 'yellow';
         } else {
