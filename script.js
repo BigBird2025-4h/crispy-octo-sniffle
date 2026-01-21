@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   if (portfolioButton2) {
     portfolioButton2.addEventListener('click', function() {
-      this.style.backgroundColor = (this.style.backgroundColor === 'orange') ? 'blue' : 'orange';
+      this.style.backgroundColor = (this.style.backgroundColor === 'orange') ? 'purple' : 'orange';
     });
   }
 
